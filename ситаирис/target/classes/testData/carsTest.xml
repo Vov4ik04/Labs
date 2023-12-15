@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <name>car2</name>
+        <price>1</price>
+        <enginePower>2</enginePower>
+    </car>
+    <car>
+        <name>car3</name>
+        <price>3</price>
+        <enginePower>4</enginePower>
+    </car>
+</cars>

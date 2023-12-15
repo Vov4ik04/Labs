@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <name>car1</name>
+        <price>123.423</price>
+        <enginePower>23.352</enginePower>
+    </car>
+    <car>
+        <name>car2</name>
+        <price>122343.423</price>
+        <enginePower>23.352</enginePower>
+    </car>
+    <car>
+        <name>car3</name>
+        <price>11223.423</price>
+        <enginePower>2653.352</enginePower>
+    </car>
+</cars>
